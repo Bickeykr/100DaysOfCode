@@ -10,9 +10,9 @@
   <tr>
     <td> Say Hi! 👋 : <a href="https://twitter.com/messages/compose?recipient_id=1444903302546673665&text=Hi! 👋" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter"
           height="auto" width="30" /></a></td>
-    <td> Let's connect : <a href="https://www.linkedin.com/in/bickey-kumar-117565219/" target="_blank">
+    <!-- <td> Let's connect : <a href="https://www.linkedin.com/in/bickey-kumar-117565219/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="auto" width="30" />
-      </a></td>
+      </a></td> -->
     <td> View Work : <a href="https://github.com/Bickeykr?tab=repositories" target="_blank">
         <img align="center" src="https://github.com/Bickeykr/Bickeykr/blob/main/github.png?raw=true" alt="Github" height="auto" width="30" />
       </a></td>
