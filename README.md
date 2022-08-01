@@ -1,1 +1,8 @@
-# 100DaysOfCode
+- We will make this as a guide to our journey.
+- Here in README.md we will keep a read me instruction it what is this repo all about.
+- We will include the source of the original idea by Alex
+- We will keepp all of our logs in Log.md of everyday.
+    - We will keep it in details and use toggle in the log so it will not be denser and a user will be able to get a overview of reading through the log and if he/she want to get in the details, It can toggle for more details.
+- In resource.md we will also include the resources which we found useful in our little journey
+- This will be totally dedicated to Full stack development. 
+- We will try to depleat all the unrelated information in here, but will just keep enough take if someone wants to start this journey "We get a basic guide" like we may create a file called ifYouWantToStart.md 
