@@ -19,18 +19,18 @@
  
 
     <details>
-    <summary><b>You can check my 100DaysOfCode Log.md</b></summary>
+    <summary><b>You can check my 100DaysOfCode logs Log.md</b></summary><br>
 
     
 
-    - There may be two reasons why you want to see:-
+    - There may be two reasons why you may want to check Log.me :-
 
-        - In case you are personally learning web development yourself so, check it may worth your while because I tried make someone like you worth reading.
+        1. In case you are personally learning web development yourself so, check it may worth your while because I tried make someone like you worth reading.
 
-        - Somehow you came across this repo and want to to see how I did my 100DaysOfCode challenge and logging stuff.
+        2. Somehow you came across this repo and want to to see how I did my 100DaysOfCode challenge and logging stuff.
                 - I tried to keep is simple as inspired [MightyJoeW/100-Days-of-Code](https://github.com/MightyJoeW/100-Days-of-Code)
 
-        - Or may be somthing else who know either way your are [🔲](#Welcome-to-my-100DaysOfCode-log-.)
+        3. Or may be somthing else who know either way your are [🔲](#Welcome-to-my-100DaysOfCode-log-.)
 
 
 
@@ -40,6 +40,6 @@
  ***
 
 ## Contents
-
+- [Log.md](Log.md)
 - [ResourcesWhichMayHelpYou.md](ResourcesWhichMayHelpYou.md)
-- [Log - click here to see my progress](Log.md)
+
