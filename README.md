@@ -6,3 +6,7 @@
 - In resource.md we will also include the resources which we found useful in our little journey
 - This will be totally dedicated to Full stack development. 
 - We will try to depleat all the unrelated information in here, but will just keep enough take if someone wants to start this journey "We get a basic guide" like we may create a file called ifYouWantToStart.md 
+ 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
