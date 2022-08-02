@@ -1,8 +1,3 @@
-<h3 align="center">Alert: This is going to be a very personal and straight forward log so, if I felt sad I will write I felt sad, If I was filled with happiness after my "first attempt written code and it worked", I will write it so, you may not find quotes by Einstein in every second, <br>but I will make sure you really have the same experience as I had in this 100 Days and Have fun reading it.
-
-</h3>
-
-<hr>
 
 <h1 align="center">#100DaysOfCode Log </h1>
 
@@ -10,9 +5,6 @@
   <tr>
     <td> Say Hi! 👋 : <a href="https://twitter.com/messages/compose?recipient_id=1444903302546673665&text=Hi! 👋" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter"
           height="auto" width="30" /></a></td>
-    <!-- <td> Let's connect : <a href="https://www.linkedin.com/in/bickey-kumar-117565219/" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="auto" width="30" />
-      </a></td> -->
     <td> View Work : <a href="https://github.com/Bickeykr?tab=repositories" target="_blank">
         <img align="center" src="https://github.com/Bickeykr/Bickeykr/blob/main/github.png?raw=true" alt="Github" height="auto" width="30" />
       </a></td>
@@ -44,7 +36,7 @@ Day 2: Wednesday July, 21, 2022
 **Thoughts:** : I was feeling kinda tired, lonely, I may read mange after commiting this but it's fine We just need to keep going. 
 
 - Here is the a ss of how my app.js looks right now and as you can see I usually write comments for things of which I come across for the first time. <br> <br>
-  <img  src="https://github.com/Bickeykr/100-Days-of-Code/blob/master/img/appjsSS.png?raw=true"   height="500" style="float: left;" alt="app.js">
+  <img  src="img\appjsSS.png"   height="500" style="float: left;" alt="app.js">
 
 
 **Link to tweet:** [Bickey kumar Day 2](https://twitter.com/Bickey_kr/status/1549757379276771330?s=20&t=-r5sQ1KmBQS8IFf22oSCaw)
@@ -68,7 +60,7 @@ Day 4: Friday July, 22, 2022
 **Today's Progress**: Completed all 21 challenges and our blog website is ready. It will not be deployed since was only for practice.
 - This is how it looks like now
 <br>
-  <img  src="https://github.com/Bickeykr/100-Days-of-Code/blob/master/img/Preview%20ofDaily%20Journal.png?raw=true"   height="500" style="float: left;" alt="app.js">
+  <img  src=" img\Preview ofDaily Journal.png"   height="500" style="float: left;" alt="app.js">
 
 
 [Here](https://twitter.com/Bickey_kr/status/1550512080117063682?s=20&t=Avs3XONo21_0qdRvWHcq7w) showed by composing 3 posts and viewed each real quick.
@@ -113,6 +105,7 @@ Day 7: Monday July, 25, 2022
 **Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1551579478459002880?s=20&t=E6y2XjPhJmAOFYamrFPuPg)
 <hr>
 <!-- ============================================================================================================================================================ -->
+<h2 align="center">
 Day 8: Tuesday July, 26, 2022
 </h2>   
 
@@ -123,54 +116,101 @@ Day 8: Tuesday July, 26, 2022
 **Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1551980437643591680?s=20&t=ghVnCNUxQaSteXYAKja23Q)
 <hr>
 <!-- ============================================================================================================================================================ -->
+<h2 align="center">
 Day 9: Wednesday July, 27, 2022
 </h2>   
 
-**Today's Progress**: Learning mongoose,Today created database connection, inserted docs basically performed CRUD MongoDB database using mongoose.
+**Today's Progress**: Learning mongoose, Today created a database connection, inserted docs basically performed CRUD MongoDB database using mongoose.
 
 - here is a good one run the below code and check console what do I believe you are.
 
+  <details>
+  <summary><b>The code</b></summary>
 
-```
- const mongoose = require("mongoose");
+  ```
+  const mongoose = require("mongoose");
 
-main().catch((err) => console.log(err));
+  main().catch((err) => console.log(err));
 
-async function main() {
-  await mongoose.connect("mongodb://localhost:27017/youGood");
+  async function main() {
+    await mongoose.connect("mongodb://localhost:27017/youGood");
 
-  const youSchema = new mongoose.Schema({
-    discription: String,
-  });
-
-  const Person = mongoose.model("Person", youSchema);
-
-  const you = new Person({
-    discription:
-      "You are the finest person i have ever encountered. @bickey_kr",
-  });
-
-  await you.save();
-
-  Person.find(function (err, Person) {
-    mongoose.connection.close();
-    Person.forEach((item, i) => {
-      console.log(i + ". " + item.discription);
+    const youSchema = new mongoose.Schema({
+      discription: String,
     });
-  });
-}
 
-}
-```
+    const Person = mongoose.model("Person", youSchema);
+
+    const you = new Person({
+      discription:
+        "You are the finest person i have ever encountered. @bickey_kr",
+    });
+
+    await you.save();
+
+    Person.find(function (err, Person) {
+      mongoose.connection.close();
+      Person.forEach((item, i) => {
+        console.log(i + ". " + item.discription);
+      });
+    });
+  }
+
+  }
+  ```
+
+  </details>
+
 - If you decide to run the code make sure you have got the prerequisites ready to run the code (like installation of MongoDB and more).
 
-**Thoughts:** I only studied for 2 hours today and i was suppose to do 5 hours but i don't regret it bucause when i was about to study my father called me for help in our shop. so i was there.
+**Thoughts:** I only studied for 2 hours today and I was supposed to do 5 hours but i don't regret it because when I was about to study my father called me for help in our shop. so I was there.
 
 **Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1552335635595157504?s=20&t=bXdft2M7SJEISlFmDINvhQ)
 <hr>
+<h2 align="center">
+Day 10: Thursday July, 28, 2022
+</h2>   
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to tweet:** 
+**Link to work:** 
+<hr>
+
+<h2 align="center">
+Day 11: Thursday July, 29, 2022
+</h2>   
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to tweet:** 
+**Link to work:** 
+<hr>
+
+<h2 align="center">
+Day 13: Thursday August, 1, 2022
+</h2>   
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to tweet:** 
+**Link to work:** 
+<hr>
+
+<h2 align="center">
+Day 14: Thursday August, 1, 2022
+</h2>   
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to tweet:** 
+**Link to work:** 
+<hr>
+
 
 <!--
 <!-- ============================================================================================================================================================ 
+
 <h2 align="center">
 Day ?: Thursday July, 21, 2022
 </h2>   
@@ -186,3 +226,13 @@ Day ?: Thursday July, 21, 2022
 <hr>
 
 -->
+<!-- 
+<h2 align="center">
+Day ?: Thursday July, 21, 2022
+</h2>   
+**Today's Progress**: 
+
+**Thoughts:** 
+**Link to tweet:** 
+**Link to work:** 
+<hr> -->

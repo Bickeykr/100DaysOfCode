@@ -1,4 +1,4 @@
-# Resources which may help you
+# Resources that may help you
 
 ## If you would like to start your own 100DaysOfCode. (All info you would ever want to start)
 1. [100daysofcode.com](https://www.100daysofcode.com/) (Official 100DaysOfCode website)
@@ -38,7 +38,7 @@ Add part 2 for this table when found personally any useful books same goes for c
 ***
 ## Contents
 * [README.md](README.md)
-* [Log - click here to see my progress](Log.md)
+* [Log.md](Log.md)
 
 
 
