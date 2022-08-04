@@ -252,7 +252,17 @@ Day 15: Wednesday August, 3, 2022
 
 <hr>
 
+<h2 align="center">
+Day 16: Thursday August, 4, 2022
+</h2>   
 
+**Today's Progress**:  learned a bit about MongoDB Atlas just enough the get a database connection for the deployed application. "basically got started with the free plan of Atlas"  and deployed the "Todo Application" on Heroku.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1555241636073918464?s=20&t=tYURf11rc_9Bl7x_tn04OQ)
+
+**Link to work:** [here](https://fierce-ocean-00362.herokuapp.com/)
+<hr> 
+ 
 
 <!--
 <!-- ============================================================================================================================================================ 
