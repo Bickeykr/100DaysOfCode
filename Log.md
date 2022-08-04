@@ -167,45 +167,91 @@ Day 9: Wednesday July, 27, 2022
 
 **Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1552335635595157504?s=20&t=bXdft2M7SJEISlFmDINvhQ)
 <hr>
-<h2 align="center">
-Day 10: Thursday July, 28, 2022
-</h2>   
-**Today's Progress**: 
 
-**Thoughts:** 
-**Link to tweet:** 
-**Link to work:** 
+<h2 align="center">
+Day 10:  Thursday July, 28, 2022
+</h2>   
+
+**Today's Progress**: Today got introduced with mongoose data validation and played it with few times on my fav playground vscode.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1552683217894850561?s=20&t=WNM95i-oqz18blppNKnX8Q)
+
+
 <hr>
 
 <h2 align="center">
-Day 11: Thursday July, 29, 2022
+Day 11: Friday July, 29, 2022
 </h2>   
-**Today's Progress**: 
 
-**Thoughts:** 
-**Link to tweet:** 
-**Link to work:** 
+**Today's Progress**: Today learning about Establishing Relationships and Embedding Documents using Mongoose.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1553034176865001473?s=20&t=WNM95i-oqz18blppNKnX8Q)
+
+
+<hr>
+<h2 align="center">
+Day 12: Saturday July, 30, 2022
+</h2>   
+
+**Today's Progress**:  Today started building a simple "to do application" Which we have it own database and entered tasks will not disappear after restarting nodemon and will be putting all the learning of databases mongodb, mongoose to good use 👌 
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1553405156217475073?s=20&t=WNM95i-oqz18blppNKnX8Q)
+
+
+<hr>
+<h2 align="center">
+Day 12: Sunday July, 31, 2022
+</h2>   
+
+**Today's Progress**: Today we managed to save entered task of 
+"todo application" in database collection using [@mongodb](https://github.com/mongodb) and mongoose and now task won't disappears when I refresh the server.
+
+**Thoughts:** I mistakenly posted day12 two days in a row however the tweets and progress are different because these are two different days and I am doing the same here as well to keep both align.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1553786255346843653?s=20&t=175dbOmkrp0im4N7O2Ph1A)
+
+
+<hr>
+<h2 align="center">
+Day 13: Monday August, 1, 2022
+</h2>   
+
+**Today's Progress**: Almost there, the application is looking good, at the moment we can Add, Delete and Create a custom list.
+
+Tools used to build: nodejs, express, ejs.
+
+<img  src="img\todoApplicationWithDatabase.png"   height="500" style="float: left;" alt="app.js">
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1552683217894850561?s=20&t=WNM95i-oqz18blppNKnX8Q)
+
+
+<hr>
+<h2 align="center">
+Day 14: Tuesday August, 2, 2022
+</h2>   
+
+**Today's Progress**: Today finally completed the database work in the "Todo application" I was working on. 
+
+<img  src="img\ssOfCompletedDatabaseWorkTodoApplication.png"   height="500" style="float: left;" alt="app.js">
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1554507490082951169?s=20&t=105Lr2w0TcN5fPyMHhgrcA)
+
+
 <hr>
 
 <h2 align="center">
-Day 13: Thursday August, 1, 2022
+Day 15: Wednesday August, 3, 2022
 </h2>   
-**Today's Progress**: 
 
-**Thoughts:** 
-**Link to tweet:** 
-**Link to work:** 
+**Today's Progress**: Today finally completed the database work in the "Todo application" I was working on.
+ 
+
+**Link to tweet:** Check out the tweet if you wish to see video which i posted of completed application 
+[Today's tweet](https://twitter.com/Bickey_kr/status/1554870430019727362?s=20&t=105Lr2w0TcN5fPyMHhgrcA)
+
+
 <hr>
 
-<h2 align="center">
-Day 14: Thursday August, 1, 2022
-</h2>   
-**Today's Progress**: 
-
-**Thoughts:** 
-**Link to tweet:** 
-**Link to work:** 
-<hr>
 
 
 <!--
