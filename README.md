@@ -42,7 +42,7 @@
 
 ## Contents
 - [Log.md](Log.md)
-- [ResourcesWhichMayHelpYou.md](ResourcesWhichMayHelpYou.md)
+- [ResourcesThatMayHelpYou.md](ResourcesThatMayHelpYou.md)
 
 
 --
