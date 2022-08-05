@@ -262,7 +262,18 @@ Day 16: Thursday August, 4, 2022
 
 **Link to work:** [here](https://fierce-ocean-00362.herokuapp.com/)
 <hr> 
+
+<h2 align="center">
+Day 17: Friday August, 5, 2022
+</h2>   
+
+**Today's Progress**: Worked with mongoose and upgraded the blog website shown [here](https://bit.ly/3BO0tPl), and gave this node application a database where all posts could be stored.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1555599133456494593?s=20&t=c4R6As1t9GjWBYbP13VCJA)
+
  
+<hr> 
+
 
 <!--
 <!-- ============================================================================================================================================================ 
