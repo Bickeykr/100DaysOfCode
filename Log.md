@@ -274,6 +274,22 @@ Day 17: Friday August, 5, 2022
  
 <hr> 
 
+<h2 align="center">
+Day 18: Saturday August, 6, 2022
+</h2>   
+
+**Today's Progress :** Got introduced to RESTful API
+**Thoughts:**  Today I was not really feeling like continuing for much longer than an hour of session, 
+Oh, I just want to eat and lay in bed and read manga all day and night currently reading the Vinland saga.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1555933598653419525?s=20&t=FEwpjvcy2cBl3mYic-SJww)
+
+ 
+<hr> 
+
+ 
+
+
 
 <!--
 <!-- ============================================================================================================================================================ 
