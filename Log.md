@@ -290,7 +290,7 @@ Day 19: Saturday August, 6, 2022
 **Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1556313611215114240?s=20&t=z98kZCiFkUnyJQNUZOM3qA)
 <details>
     <summary><b>media</b></summary><br>
-    <img src="img\servercode.png" height="500" style="float: left;" alt="Mobile Minutes Converter">
+    <img src="img\servercode.png" height="500" style="float: left;" alt="Server code">
   
   </details>
 
