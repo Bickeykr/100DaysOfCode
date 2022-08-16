@@ -294,7 +294,87 @@ Day 19: Saturday August, 6, 2022
   
   </details>
 
+<hr><h2 align="center">
+Day 20: Sunday August, 7, 2022
+</h2>
+
+**Today's Progress :**  Continuing learning RESLful APIs for which creating an API. Made use GET & POST methy.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1556688388383985664?s=20&t=Y2nZdQjUrr1V_Q0CVZXnPA)
+ 
+
+<hr><h2 align="center">
+Day 21: Monday August, 8, 2022
+</h2>
+
+**Today's Progress :**  After missing a day but back on track, I even tweeted about the missed day [here](https://bit.ly/3zMcH8C) and Continuing learning RESLful APIs for which creating an API. Completed POST method.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1557402504207278080?s=20&t=Y2nZdQjUrr1V_Q0CVZXnPA)
+ 
+
+<hr><h2 align="center">
+Day 22: Tuesday August, 9, 2022
+</h2>
+
+**Today's Progress :** Worked with 
+@getpostman
+ for testing RESLful APIs really excellent tool it makes work a lot easier & easy to use love it.  
+but using 🖱️for everything is a pain, so I was wondering if there are keyboard shortcuts to navigate within postman for the desktop.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1557759399887716352?s=20&t=Y2nZdQjUrr1V_Q0CVZXnPA)
+ 
+
+<hr><h2 align="center">
+Day 23: Wednesday August, 10, 2022
+</h2>
+
+**Today's Progress :** Working on creating my own RESTful API, it is an API that allows users to interact with collections of articles.  the user can create new, view all, delete all & view one article with this API till now.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1558128410374725632?s=20&t=Y2nZdQjUrr1V_Q0CVZXnPA)
+ 
+
+<hr><h2 align="center">
+Day 24: Thursday August, 11, 2022
+</h2>
+
+**Today's Progress :** continue work on building RESTful API for practice and learning propose. 
+
+**Thought:** Updating the 100DaysOfCode daily log on GitHub can be a pain, it has been 3 days last I  updated it, but today 16/08/2022 I am updating for all past 6 days.
+Do you agree 🥲?
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1558486870576603136?s=20&t=Y2nZdQjUrr1V_Q0CVZXnPA)
+ 
+
 <hr>
+<h2 align="center">
+Day 25: Friday August, 6, 2022
+</h2>
+
+**Today's Progress :** Got introduced to RESTful API
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1556313611215114240?s=20&t=z98kZCiFkUnyJQNUZOM3qA)
+<details>
+    <summary><b>media</b></summary><br>
+    <img src="img\servercode.png" height="500" style="float: left;" alt="Server code">
+  
+  </details>
+
+<hr>
+<h2 align="center">
+Day 19: Saturday August, 6, 2022
+</h2>
+
+**Today's Progress :** Got introduced to RESTful API
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1556313611215114240?s=20&t=z98kZCiFkUnyJQNUZOM3qA)
+<details>
+    <summary><b>media</b></summary><br>
+    <img src="img\servercode.png" height="500" style="float: left;" alt="Server code">
+  
+  </details>
+
+<hr>
+
  
 
 <!--
