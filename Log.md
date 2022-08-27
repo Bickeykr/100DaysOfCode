@@ -347,7 +347,7 @@ Do you agree 🥲?
 
 <hr>
 <h2 align="center">
-Day 25: Friday August, 6, 2022
+Day 25: Friday August, 12, 2022
 </h2>
 
 **Today's Progress :** Got introduced to RESTful API
@@ -361,20 +361,110 @@ Day 25: Friday August, 6, 2022
 
 <hr>
 <h2 align="center">
-Day 19: Saturday August, 6, 2022
+Day 26: Saturday August, 16, 2022
 </h2>
 
-**Today's Progress :** Got introduced to RESTful API
+**Today's Progress :** Today started learning about the "Authentication and security" of websites! 
 
-**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1556313611215114240?s=20&t=z98kZCiFkUnyJQNUZOM3qA)
-<details>
-    <summary><b>media</b></summary><br>
-    <img src="img\servercode.png" height="500" style="float: left;" alt="Server code">
-  
-  </details>
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1559555499783344131?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
 
 <hr>
 
+<h2 align="center">
+Day 27: Sunday August, 17, 2022
+</h2>
+
+**Today's Progress :** Working on a simple website where the user has to enter a username and password to access another page. This is part of learning "Authentication and security"!
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1560293993971195904?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+
+<hr>
+<h2 align="center">
+Day 28: Monday August, 20, 2022
+</h2>
+
+**Today's Progress :** Studied for only an hour, and played with GitHub and git, remote repos, and local repos.
+
+Hey Devs, I was wondering, 
+Is it a good idea to push every project we work on GitHub?
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1561019463147061250?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+<hr>
+<h2 align="center">
+Day 29: Tuesday August, 21, 2022
+</h2>
+
+**Today's Progress :** ➡️ Today: worked git and GitHub in order to push a local repo to remote! 
+
+➡️ even though I knew git and GitHub faced multiple errors and had to Google the answer.
+
+🌐 https://bit.ly/3pxuo76 repo I was working on still works remains!
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1561401678980456448?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+
+<hr>
+<h2 align="center">
+Day 30: Wednesday August, 22, 2022
+</h2>
+
+**Today's Progress :**  Today: Revised git and GitHub Notes to recall what I studied and to find a command to delete a branch on the local repo.
+
+🌐 https://bit.ly/3pxuo76 Fixed the issue with the repositary.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1562139795106648071?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+
+<hr>
+<h2 align="center">
+Day 31: Thursday August, 23, 2022
+</h2>
+
+**Today's Progress :** I feel like I need to know more about GitHub and start contributing to the open source in various ways.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1562489471001452544?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+
+<hr>
+<h2 align="center">
+Day 32: Saturday August, 25, 2022
+</h2>
+
+**Today's Progress :** 
+Didn't write any lines of code today but learned how we can back up files! learned to use 
+@googledrive
+ and managed files.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1562862642481442816?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+ 
+
+<hr>
+<h2 align="center">
+Day 33: Friday August, 26, 2022
+</h2>
+
+**Today's Progress :** Paused Learning full stack web development and started learning C. 
+
+To know why this change of events [here](https://twitter.com/Bickey_kr/status/1563120835480526848?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1563212117158686721?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+
+<hr>
+<h2 align="center">
+Day 34: Saturday August, 27, 2022
+</h2>
+
+**Today's Progress :** Updated this log repo and continuing learning C.  
+
+To know why this change of events [here](https://twitter.com/Bickey_kr/status/1563120835480526848?s=20&t=LrfTzqm9noxqbnJxJex50Q)
+
+ 
+
+<hr>
  
 
 <!--
