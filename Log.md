@@ -465,7 +465,15 @@ To know why this change of events [here](https://twitter.com/Bickey_kr/status/15
  
 
 <hr>
+ <h2 align="center">
+Day 35: Sunday August, 28, 2022
+</h2>
+
+**Today's Progress :** Completed setup for learning C programming learning time less than an hour.
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1563934310737973249?s=20&t=HexE-Kz6zjTiJvmA_xzE7Q)
  
+
+<hr>
 
 <!--
 <!-- ============================================================================================================================================================
