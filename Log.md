@@ -474,6 +474,15 @@ Day 35: Sunday August, 28, 2022
  
 
 <hr>
+ <h2 align="center">
+Day 36: Sunday August, 30, 2022
+</h2>
+
+**Today's Progress :** No coding today Agin!
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1564665857883615232?s=20&t=lwatIia3asXI-lG0dtto1A)
+ 
+
+<hr>
 
 <!--
 <!-- ============================================================================================================================================================
