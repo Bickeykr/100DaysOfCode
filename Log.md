@@ -475,7 +475,7 @@ Day 35: Sunday August, 28, 2022
 
 <hr>
  <h2 align="center">
-Day 36: Sunday August, 30, 2022
+Day 36: Tuesday August, 30, 2022
 </h2>
 
 **Today's Progress :** No coding today Agin!
@@ -483,7 +483,16 @@ Day 36: Sunday August, 30, 2022
  
 
 <hr>
+ <h2 align="center">
+Day 36: Wednesday August, 31, 2022
+</h2>
 
+**Today's Progress :**   Continuing learning C! there is two 36 days because I didn't do any coding yesterday. 
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1565020956514365440?s=20&t=J3DnRcHsTmiReYtkqrVlfg)
+ 
+
+<hr>
 <!--
 <!-- ============================================================================================================================================================
 
