@@ -493,6 +493,16 @@ Day 36: Wednesday August, 31, 2022
  
 
 <hr>
+ <h2 align="center">
+Day 37: Thursday September, 01, 2022
+</h2>
+
+**Today's Progress :** Learned about variable, datatype and constants in C.
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1562823749766115329?s=20&t=J6g1fJiMduqcYQRl1N7wQQ)
+ 
+
+<hr>
 <!--
 <!-- ============================================================================================================================================================
 
