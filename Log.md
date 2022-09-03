@@ -503,6 +503,18 @@ Day 37: Thursday September, 01, 2022
  
 
 <hr>
+ <h2 align="center">
+Day 38: Saturday September, 03, 2022
+</h2>
+
+**Today's Progress :** #100DaysOfCode 
+Learned how to input/output data in C. 
+
+**Link to tweet:** [Today's tweet](https://twitter.com/Bickey_kr/status/1566116153058947072?s=20&t=oYDL78Zg8kqQxHfLSQ3Lsg)
+ 
+
+<hr>
+
 <!--
 <!-- ============================================================================================================================================================
 
